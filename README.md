@@ -1,1 +1,1 @@
-# AutoEDA
+# Auto-EDA
